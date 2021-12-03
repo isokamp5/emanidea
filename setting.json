@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"Top Anime Wallpaper",
+  "author":"Aniwall",
   "remove-comment-html":true,
-  "target":"https://stackoverflow.com",
+  "target":"https://sachiwallpaper.blogspot.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
